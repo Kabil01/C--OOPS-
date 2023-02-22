@@ -20,3 +20,10 @@ int main(){
 	cout<<"The given string is not a palindrome"<<endl;
 	}
 }
+
+
+//OUTPUT
+/*
+Enter the string: ROTATOR
+The given string is a palindrome
+*/
