@@ -14,3 +14,9 @@ int main(){
 	cout<<"The output is "<<inp;
 	return 0;
 }
+
+//OUTPUT
+/*
+Enter the string :d1department
+The output is e1efqbsunfou
+*/
