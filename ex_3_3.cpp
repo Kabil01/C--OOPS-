@@ -13,3 +13,11 @@ int main(){
 	}
 	cout<<"No of words in string is "<<count<<endl;
 }
+
+
+//OUTPUT
+
+/*
+Enter the string: I am Okay, Task Completed
+No of words in string is 5
+*/
