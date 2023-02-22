@@ -23,3 +23,9 @@ int main()
     }
     cout << "The largest word in the statement is: " << largest_word << endl;
 }
+
+//OUTPUT
+/*
+Enter a statement: I am Okay, Task Completed
+The largest word in the statement is Completed
+*/
