@@ -23,3 +23,12 @@ int main(){
 	out=substring(inp,pos,len);
 	cout<<"Output :"<<out<<endl;
 }
+
+//OUTPUT
+/*
+Enter the string :Welcome to world of C++ Programming
+Position :
+5
+Length :9
+Output :me to wor
+*/
