@@ -15,3 +15,10 @@ int main(){
 		cout<<"The word “Hello” is not Present in the given Statement "<<inp;
 	}
 }
+
+//OUTPUT
+
+/*
+Enter the string :Welcome to all, Hello Take Your Seat
+The word “Hello” is Present in the given Statement Welcome to all, Hello Take Your Seat
+*/
