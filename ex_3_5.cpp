@@ -26,3 +26,11 @@ int main(){
 	}
 	cout<<"The Output string is "<<ini<<endl;
 }
+
+
+//OUTPUT
+
+/*
+Enter the Fullname : Mahendra Singh Dhoni
+The Output string is M.S.Dhoni
+*/
