@@ -1,0 +1,21 @@
+#include <iostream>
+using namespace std;
+
+int main(){
+	string inp;
+	cout<<"Enter the string :";
+	cin>>inp;
+	int n;
+	n=inp.size();
+	for (int len = 1; len <= n; len++)
+	{	
+		for (int i = 0; i <= n - len; i++)
+		{
+			int j = i + len - 1;			
+			for (int k = i; k <= j; k++)
+				cout << inp[k];
+			
+			cout << endl;
+		}
+	}
+}
