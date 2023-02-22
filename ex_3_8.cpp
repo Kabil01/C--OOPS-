@@ -19,3 +19,18 @@ int main(){
 		}
 	}
 }
+
+//OUTPUT
+/*
+Enter the string :ABCD
+A
+B
+C
+D
+AB
+BC
+CD
+ABC
+BCD
+ABCD
+*/
