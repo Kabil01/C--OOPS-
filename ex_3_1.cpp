@@ -15,3 +15,10 @@ int main(){
 	}
 	cout<<"The reversed string is "<<inp;
 }
+
+
+//Output
+/*
+Enter the string :reverse
+The reversed string is esrever
+*/
