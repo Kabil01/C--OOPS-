@@ -16,3 +16,8 @@ int main(){
 	cout<<"The string is "<<inp;
 }
 
+//OUTPUT
+/*
+Enter the string:I am Okay,Task Completed
+The string is I a Oa,a oee
+*/
