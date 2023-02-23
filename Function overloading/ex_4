@@ -1,0 +1,10 @@
+    1. Write a program that demonstrates function overloading by defining two functions with the same name but different number of parameters.
+    2. Write a program that demonstrates function overloading by defining two functions with the same name but different types of parameters.
+    3. Write a program that demonstrates function overloading by defining two functions with the same name but different const-ness of parameters.
+    4. Write a program that demonstrates function overloading by defining two functions with the same name but different return types.
+    5. Write a program that demonstrates function overloading by defining three functions with the same name but different combinations of parameter types and number.
+    6. Write a program that demonstrates function overloading by defining two functions with the same name and parameter types, but different default argument values.
+    7. Write a program that demonstrates function overloading by defining two functions with the same name but different templates.
+    8. Write a program that demonstrates function overloading by defining two functions with the same name and same template, but different template parameters.
+    9. Write a program that demonstrates function overloading by defining two functions with the same name and same template parameters, but different template parameter lists.
+    10. Write a program that demonstrates function overloading by defining two functions with the same name and same template parameter list, but different template specializations.
