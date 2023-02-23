@@ -20,3 +20,9 @@ int main(){
 	display(b,a);
 	display(a,b);
 }
+
+/*
+unction() with no arguments
+kabil is 19 Years old function(string,int)
+kabil is 19 Years old function(int,string)
+*/
