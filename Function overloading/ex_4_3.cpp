@@ -17,3 +17,8 @@ int main(){
 	const char *b="KABIL";
 	display(b); 
 }
+
+/*
+This executes non constant functionOOPS
+This executes constant function KABIL
+*/
