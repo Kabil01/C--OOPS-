@@ -17,3 +17,8 @@ int main(){
 	display(a);
 	display(b);
 }
+
+/*
+This function accepted the datatype integer 7
+This function accepted the datatype double 3.14
+*/
