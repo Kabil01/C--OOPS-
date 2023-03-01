@@ -2,21 +2,16 @@
 
 #include <iostream>
 using namespace std;
-
-string display(){
-	string a="kabil";
-	return a;
+int sum(int a, int b) {
+  return a + b;
 }
-
-int display(){
-	return 6;
+double sum(double a, double b) {
+  return a + b;
 }
-
-int main(){
-	int a;
-	string b;
-	a=display();
-	cout<<"This displays "<<a<<endl;
-	b=display();
-	cout<<"This displays "<<a<<endl;
+int main() {
+  int a = 5, b = 7;
+  double c = 3.5, d = 2.8;
+cout << "sum(" << a << ", " << b << ") = " << sum(a, b) << endl;
+cout << "sum(" << c << ", " << d << ") = " << sum(c, d) << endl;
+  return 0;
 }
